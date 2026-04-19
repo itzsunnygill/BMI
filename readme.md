@@ -1,52 +1,63 @@
-# BMI Calculator Project
+# 🌈 BMI Calculator
 
-This project is a simple BMI (Body Mass Index) calculator implemented using HTML, CSS, and JavaScript. It allows users to input their height and weight, and then calculates and displays their BMI along with a corresponding category.
+A premium, modern, and interactive BMI (Body Mass Index) Calculator designed with focus on user experience and sleek aesthetics. 
 
-## Table of Contents
-- [Demo](#demo)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
+![BMI Calculator Hero](./assets/hero-image.png)
 
 ---
 
-## Demo
-![Screenshot (205)](https://github.com/Upendra2003/Web-Development-Projects/assets/96371563/1ac650ba-7c5f-4275-afb7-14bfbd305165)
+## ✨ Features
 
+- **🚀 Real-time Calculations:** Instant BMI feedback as you input your data.
+- **🎨 Modern UI:** Clean glassmorphism design with smooth transitions and vibrant background blobs.
+- **📊 Visual Feedback:** Interactive BMI scale that shows exactly where you stand.
+- **📱 Responsive Design:** Works perfectly on desktop, tablet, and mobile devices.
+- **⚧️ Personalized Profiles:** Gender-specific cards and age input for accurate context.
 
+## 🛠️ Developed By
 
-## Features
+This project was built from scratch by **Sunny Gill**. 
 
-- Calculate BMI based on user's input of height and weight.
-- Display the BMI value and corresponding category (e.g., Underweight, Normal weight, Overweight, etc.).
-- Simple and intuitive user interface.
+> "Creating simple solutions for complex health metrics." — Sunny Gill
 
-## Getting Started
-
-### Prerequisites
-
-- A modern web browser (Chrome, Firefox, Safari, Edge, etc.)
-
-### Installation
-
-1. Clone the repository or download the ZIP file.
-
-```bash
-git clone https://github.com/Prodigy-InfoTech/Web-Development-Projects.git
-```
-
-2. Open the project folder.
-
-```bash
-cd BMI Calculator
-```
-
-3. Run `index.html` in your preferred web browser.
-
-## Usage
-
-1. Open the `index.html` file.
-2. Input your height (in meters) and weight (in kilograms).
-3. Click on the "Calculate BMI" button.
-4. Your BMI value and category will be displayed.
 ---
+
+## 💻 Tech Stack
+
+- **HTML5:** Semantic structure for maximum accessibility.
+- **CSS3:** Advanced animations, CSS Grid/Flexbox, and Glassmorphism effects.
+- **JavaScript (ES6+):** Pure vanilla JS for lightning-fast performance and logic.
+
+## 🚀 Getting Started
+
+Follow these simple steps to get the project running locally on your machine:
+
+### 1. Project Setup
+Download the project files to your local machine.
+
+### 2. Launch
+Since this is a client-side application, you can simply open the `index.html` file in any modern web browser.
+
+```bash
+# Recommended: Use a live server (optional)
+live-server .
+```
+
+## 📈 How it Works
+
+The Body Mass Index (BMI) is a simple index of weight-for-height that is commonly used to classify underweight, overweight and obesity in adults. It is defined as the weight in kilograms divided by the square of the height in metres (kg/m²).
+
+| BMI Range | Category |
+| :--- | :--- |
+| < 18.5 | Underweight |
+| 18.5 – 24.9 | Normal Weight |
+| 25.0 – 29.9 | Overweight |
+| > 30.0 | Obesity |
+
+---
+
+## 📄 License
+This project is open-source. Feel free to use and modify it as you see fit!
+
+---
+*Created with ❤️ by [Sunny Gill](https://github.com/itzsunnygill)*
